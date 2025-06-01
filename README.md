@@ -1,5 +1,3 @@
-
-
 # Awesome Launch Platforms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.
