@@ -38,6 +38,8 @@
 * [uNeed](https://uneed.best) – Discover and share AI tools.
 * [There’s An AI For That](https://theresanai.com) – Submit your AI product for discovery.
 * [Futurepedia](https://www.futurepedia.io) – AI tools aggregator with launch listings.
+* [Productivity Directory](https://productivity.directory) – Find Productivity Tools
+
 
 ---
 
